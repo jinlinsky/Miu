@@ -85,13 +85,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{54, 172}, {32.75, 78}}</string>
+								<string>{{43, 147}, {32.75, 78}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -160,13 +160,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -235,13 +235,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -310,13 +310,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -385,13 +385,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -460,13 +460,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -535,13 +535,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -610,13 +610,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -685,13 +685,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{156, 2}, {177.75, 62.75}}</string>
+								<string>{{2, 2}, {177.75, 62.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -760,7 +760,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -835,7 +835,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -910,7 +910,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -985,7 +985,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1060,7 +1060,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{54, 80}, {88, 37}}</string>
+								<string>{{2, 147}, {88, 37}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1135,7 +1135,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1210,7 +1210,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1285,7 +1285,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1360,7 +1360,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{3, 81}, {140.75, 47.75}}</string>
+								<string>{{184, 2}, {140.75, 47.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1435,7 +1435,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{55, 209}, {27.5, 27.5}}</string>
+								<string>{{80, 221}, {27.5, 27.5}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -1531,13 +1531,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{95, 80}, {40.75, 38.75}}</string>
+								<string>{{80, 147}, {40.75, 38.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -1606,13 +1606,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{136, 184}, {27.75, 27.75}}</string>
+								<string>{{80, 189}, {27.75, 27.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<false/>
+								<true/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -1681,13 +1681,13 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{95, 80}, {40.75, 38.75}}</string>
+								<string>{{80, 147}, {40.75, 38.75}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
@@ -1729,7 +1729,7 @@
 					<key>SheetImage</key>
 					<string>miu_sprite1_placeholder.png</string>
 					<key>SheetImageRelative</key>
-					<string>/miu_sprite1_placeholder.png</string>
+					<string>/art/miu_sprite1_placeholder.png</string>
 					<key>Tag</key>
 					<integer>0</integer>
 					<key>TagName</key>
@@ -2250,11 +2250,11 @@
 		<key>PanValue</key>
 		<string>{0, 0}</string>
 		<key>ProjectName</key>
-		<string>miu</string>
+		<string></string>
 		<key>ProjectPath</key>
-		<string>/Users/a/Documents/svn_miu/Miu/GameData</string>
+		<string></string>
 		<key>SafeFrame</key>
-		<string>{480, 320}</string>
+		<string>{0, 0}</string>
 		<key>Tags</key>
 		<array>
 			<string>DEFAULT</string>
